@@ -1,5 +1,5 @@
 // how to build
-// g++ facade1.cpp -lws2.32
+// g++ facade1.cpp -lws2_32
 // cl  facade1.cpp /link ws2_32.lib
 #include <iostream>
 #include <WinSock2.h>
