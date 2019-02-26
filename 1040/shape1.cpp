@@ -17,7 +17,7 @@ public:
 class Circle : public Shape
 {
 public:
-    virtual void Draw() { cout << "Circle Rect" << endl;}
+    virtual void Draw() { cout << "Draw Circle" << endl;}
 };
 
 int main()
